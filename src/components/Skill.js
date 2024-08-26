@@ -1,15 +1,28 @@
 import React from 'react';
 
-
-const skills = [
-  '웹개발','프론트엔드', 'Node.js', 'React.jS', 'Vue.js', 'TypeScript', 'JavaScript', "Html5', 'css', 'Bootstrap'
+const skillsWell = [
+  '웹개발', '프론트엔드', 'Node.js', 'React.js', 'Vue.js', 'TypeScript', 'JavaScript', 'HTML5', 'CSS', 'Bootstrap'
 ];
+
+const skillsCan = [
+  'Java', 'Spring', 'Python'
+];
+
 const Skill = () => {
   return (
     <div style={containerStyle}>
       <h3 style={headingStyle}>나의 스킬</h3>
+      
+      <h4 style={subHeadingStyle}>잘해요</h4>
       <div style={skillsContainerStyle}>
-        {skills.map((skill, index) => (
+        {skillsWell.map((skill, index) => (
+          <span key={index} style={skillBadgeStyle}>{skill}</span>
+        ))}
+      </div>
+      
+      <h4 style={subHeadingStyle}>할 수 있어요</h4>
+      <div style={skillsContainerStyle}>
+        {skillsCan.map((skill, index) => (
           <span key={index} style={skillBadgeStyle}>{skill}</span>
         ))}
       </div>
@@ -25,6 +38,12 @@ const containerStyle = {
 const headingStyle = {
   marginBottom: '20px',
   fontSize: '24px',
+};
+
+const subHeadingStyle = {
+  marginBottom: '10px',
+  fontSize: '20px',
+  fontWeight: 'bold',
 };
 
 const skillsContainerStyle = {
