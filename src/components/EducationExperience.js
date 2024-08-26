@@ -12,7 +12,7 @@ const EducationExperience = () => {
           <p style={detailStyle}>주/야간: 야간</p>
         </div>
         <div style={educationItemStyle}>
-          <p style={dateStyle}>졸업(2021~2024)</p>
+          <p style={dateStyle}>졸업(2021.03~2024.02)</p>
           <h3 style={subHeadingStyle}>대림대학교(2·3년제)</h3>
           <p style={detailStyle}>컴퓨터정보학부</p>
           <p style={detailStyle}>주/야간: 주간</p>
