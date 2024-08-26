@@ -11,13 +11,14 @@ const ExperienceActivities = () => {
       <section style={sectionStyle}>
         <h3 style={subHeadingStyle}>수상 내역 및 봉사 활동</h3>
         <ul style={listStyle}>
-          <li>대림대 테크 페어 장려상</li>
-          <li>2024년 대림대 해커톤 입상</li>
+          <li>대림대 테크 페어 장려상 (2022년)</li>
+         
           <li>안양시 인재육성제단 IT 장학금 수상 (2022년)</li>
           <li>안양시 건강가정 다문화 가족 우수 자원 봉사자 표창장 수상 (2022년)</li>
           <li>안양시 진로 페스티벌 부스 운영 (중, 고등학생 코딩 교육) 6회 (2022-2023년)</li>
           <li>교내 봉사상 수상 (2024년)</li>
-          <li>교내 성적 장학금 4회 수상</li>
+   <li>대림대 해커톤 입상 (2024년)</li>
+          <li>교내 성적 장학금 4회 수상(2021~2023년)</li>
         </ul>
       </section>
 
