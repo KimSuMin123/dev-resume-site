@@ -21,6 +21,15 @@ const ExperienceActivities = () => {
           <li>교내 성적 장학금 4회 수상(2021년~2023년)</li>
         </ul>
       </section>
+<section style={sectionStyle}>
+        <h3 style={subHeadingStyle}>자격증</h3>
+        <ul style={listStyle}>
+          <li>운전 면허증 취득 (2024년)</li>
+<li>정보처리 산업기사 필기 합격 (2023년 7월)</li>
+<li>정보처리 기사 필기 합격 (2024년 7월)</li>
+        </ul>
+      </section>
+
 
       {/* School Activities Section */}
       <section style={sectionStyle}>
