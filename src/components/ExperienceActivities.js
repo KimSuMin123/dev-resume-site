@@ -77,7 +77,7 @@ const ExperienceActivities = () => {
 
         <div style={projectsContainerStyle}>
           <div style={activityItemStyle}>
-            <h4 style={activityTitleStyle}>대림대 지도 앱 제작 활동 참여</h4>
+            <h4 style={activityTitleStyle}>2021년 대림대 지도 앱 제작 활동 참여</h4>
             <p style={dateStyle}>2021.05 ~ 2021.10</p>
             <p>데이터 관리 및 디자인 업무</p>
           </div>
@@ -101,7 +101,7 @@ const ExperienceActivities = () => {
               allowFullScreen
               style={iframeStyle}
             ></iframe>
-            <h4 style={activityTitleStyle}>대림대 테크 페어 장려상</h4>
+            <h4 style={activityTitleStyle}>2022년 대림대 테크 페어 장려상</h4>
             <p style={dateStyle}>2022.08 ~ 2022.11</p>
             <p>MBTI 동아리 추천 사이트 개발 - Android Studio 프론트 엔드 개발</p>
           </div>
