@@ -1,7 +1,7 @@
 import React from 'react';
 
 const skillsWell = [
-  '웹개발', '프론트엔드', 'React.js', 'Vue.js', 'TypeScript', 'JavaScript', 'HTML5', 'CSS', 'Bootstrap'
+  '웹개발', '프론트엔드', 'React.js', 'Vue.js', 'TypeScript', 'JavaScript', 'HTML5', 'CSS', 'Bootstrap','Git','Figma','Xd'
 ];
 
 const skillsCan = [
