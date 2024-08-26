@@ -50,21 +50,22 @@ const ExperienceActivities = () => {
             <p>자바 튜터로 활동</p>
           </div>
 
-          <div style={activityItemStyle}>
-            <h4 style={activityTitleStyle}>구름톤 트레이닝 수료</h4>
-            <p style={dateStyle}>2022.02 ~ 2022.08</p>
-          </div>
+          
 
           <div style={activityItemStyle}>
             <h4 style={activityTitleStyle}>구름톤 트레이닝 알고리즘 스터디</h4>
-            <p style={dateStyle}>2022.02 ~ 2022.04</p>
-            <p>스터디장으로 활동</p>
+            <p style={dateStyle}>2024.02 ~ 2024.04</p>
+            <p>자바를 이용한 알고리즘 스터디</p>
           </div>
 
           <div style={activityItemStyle}>
             <h4 style={activityTitleStyle}>구름톤 트레이닝 스프링 스터디</h4>
-            <p style={dateStyle}>2022.04 ~ 2022.06</p>
-            <p>스터디장으로 활동</p>
+            <p style={dateStyle}>2024.04 ~ 2024.06</p>
+            <p>스프링 기초 공부를 위한 스터디</p>
+          </div>
+          <div style={activityItemStyle}>
+            <h4 style={activityTitleStyle}>구름톤 트레이닝 수료</h4>
+            <p style={dateStyle}>2024.02 ~ 2024.08</p>
           </div>
         </div>
       </section>
