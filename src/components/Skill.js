@@ -1,9 +1,9 @@
 import React from 'react';
 
-const skills = [
-  '웹개발','프론트엔드', 'Node.js', 'React.jS', 'Vue.js', 'TypeScript', 'JavaScript', 'Bootstrap'
-];
 
+const skills = [
+  '웹개발','프론트엔드', 'Node.js', 'React.jS', 'Vue.js', 'TypeScript', 'JavaScript', "Html5', 'css', 'Bootstrap'
+];
 const Skill = () => {
   return (
     <div style={containerStyle}>
