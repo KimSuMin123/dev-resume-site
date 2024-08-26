@@ -24,12 +24,12 @@ const EducationExperience = () => {
         <p style={experienceSummaryStyle}>총 5개월</p>
         <div style={experienceItemStyle}>
           <p style={dateStyle}>2022.12 ~ 2023.02 (3개월)</p>
-          <h3 style={subHeadingStyle}>풀다 - 인턴</h3>
+          <h3 style={subHeadingStyle}>(주)필드유 - 인턴</h3>
           <p style={detailStyle}>Vue.js를 이용한 프론트엔드 개발 업무</p>
         </div>
         <div style={experienceItemStyle}>
           <p style={dateStyle}>2022.07 ~ 2022.08 (2개월)</p>
-          <h3 style={subHeadingStyle}>알라딘시스템 - 인턴</h3>
+          <h3 style={subHeadingStyle}>(주)알라딘시스템 - 인턴</h3>
           <p style={detailStyle}>웹 개발에 기본이 되는 전반적인 보조 업무</p>
         </div>
       </section>
