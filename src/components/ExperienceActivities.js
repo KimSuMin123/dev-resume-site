@@ -77,9 +77,9 @@ const ExperienceActivities = () => {
 
         <div style={projectsContainerStyle}>
           <div style={activityItemStyle}>
-            <h4 style={activityTitleStyle}>2021년 대림대 지도 앱 제작 활동 참여</h4>
+            <h4 style={activityTitleStyle}>2021년 앱 제작 활동 참여</h4>
             <p style={dateStyle}>2021.05 ~ 2021.10</p>
-            <p>데이터 관리 및 디자인 업무</p>
+            <p>대림대 지도 앱 개발 - 데이터 관리 및 디자인 업무</p>
           </div>
 
           <div style={activityItemStyle}>
