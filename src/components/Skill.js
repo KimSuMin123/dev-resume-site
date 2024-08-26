@@ -1,11 +1,11 @@
 import React from 'react';
 
 const skillsWell = [
-  '웹개발', '프론트엔드', 'Node.js', 'React.js', 'Vue.js', 'TypeScript', 'JavaScript', 'HTML5', 'CSS', 'Bootstrap'
+  '웹개발', '프론트엔드', 'React.js', 'Vue.js', 'TypeScript', 'JavaScript', 'HTML5', 'CSS', 'Bootstrap'
 ];
 
 const skillsCan = [
-  'Java', 'Spring', 'Python'
+  'Node.js', 'Java', 'Spring', 'Python'
 ];
 
 const Skill = () => {
