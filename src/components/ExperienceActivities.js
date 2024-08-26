@@ -42,7 +42,7 @@ const ExperienceActivities = () => {
           <div style={activityItemStyle}>
             <h4 style={activityTitleStyle}>COMMON 전공동아리활동</h4>
             <p style={dateStyle}>2021.02 ~ 2023.12</p>
-            <p>2022.03 ~ 2022.07 전공 동아리 부장 활동</p>
+            <p>전공 동아리 활동 및 부장 역임</p>
           </div>
 
           <div style={activityItemStyle}>
